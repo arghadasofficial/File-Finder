@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">File Finder</string>
+    <string name="search_button_text">Search</string>
+    <string name="search_box_hint">Android Studio</string>
+    <string name="info">The sky is the limit for what you can find but how do you find open directories?
+        Google has faithfully indexed them for us to find. We only need to search for them.
+        So, lets make use of the tool to properly search for them.</string>
+</resources>
